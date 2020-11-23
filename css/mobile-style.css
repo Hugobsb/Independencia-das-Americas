@@ -1,0 +1,18 @@
+@media only screen and (max-width: 800px) {
+    #section-1-img #group-components {
+        flex-direction: column !important;
+    }
+    
+    #section-1-img #group h2 {
+        text-align: center;
+        margin-left: initial;
+    }
+
+    #section-1-img #group h2:first-of-type {
+        margin-top: 64px;
+    }
+
+    p, ul, ol {
+        margin: initial;
+    }
+}
