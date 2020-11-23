@@ -68,6 +68,7 @@ section.section-1 #group h2 {
 
 section.section-1 #group h2+h2 {
     margin-left: 32px;
+    margin-right: 32px;
 }
 
 .title {
